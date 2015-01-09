@@ -17,7 +17,7 @@ def add_to_index(index,keyword,url):
 			entry[1].append(url)
 			# exit
 			return
-	# if it doesn't exists
+	# if it doesn't exists add a new entry
 	index.append([keyword,[url]])
 
 def add_page_to_index(index,url,content):
