@@ -1,0 +1,8 @@
+The function: 
+	[list] = <string>.split() 
+
+Return the words founded in the string as a list
+
+Network:
+	A group of entities that can communicate, even 
+	though they are not all directly connected
