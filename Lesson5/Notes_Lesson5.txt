@@ -1,0 +1,17 @@
+In this Lesson the main idea is try to understand is an 
+algorithm is fass enought and how can we improve our 
+lookup algorithm with the use of hash tables
+
+Functions:
+
+ord(<one-letter-string>) -> Number
+	
+	Takes an string an produces a number based on that
+	string
+
+chr(<Number>) -> <one-letter-string>
+	
+	Takes a number an produces a one letter string 
+	based on that number
+
+Both are inverse functions 
