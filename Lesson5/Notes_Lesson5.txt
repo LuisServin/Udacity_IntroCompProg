@@ -15,3 +15,7 @@ chr(<Number>) -> <one-letter-string>
 	based on that number
 
 Both are inverse functions 
+
+Modulous operator %
+
+<number> % <modulus> -> <remainder>
