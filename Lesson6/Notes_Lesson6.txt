@@ -1,0 +1,10 @@
+We'll start using the recursive procedures
+
+Recursive definitions:
+The recursive procedures has two parts:
+	
+	1.-  Base case - a starting point:
+		- Not defined in terms of itself
+		- smallest input - already know the answer
+	2.- Recursive case:
+		- Defined in terms of "smaller" version of itself
