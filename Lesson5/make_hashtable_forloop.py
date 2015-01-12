@@ -8,14 +8,13 @@
 # table with n empty buckets
 
 def make_hashtable(nbuckets):
-	n = 0
-	# initialize an empty list
 	table = []
-	while n < nbuckets:
-		# append an empty element to the list until we have
-		# the number of necesary buckets
+	# now we use the function range to make the code easier to
+	# implement this function is explained in the file
+	# Notes_Lesson5.txt
+	for unused in range(0,nbuckets):
+		# Every time we append an empty element
 		table.append([])
-		n += 1
 	return table
 
 print make_hashtable(4)
