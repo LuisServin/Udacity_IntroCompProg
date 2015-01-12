@@ -19,3 +19,34 @@ Both are inverse functions
 Modulous operator %
 
 <number> % <modulus> -> <remainder>
+
+For loop with increase of 1 can be produced with the following 
+command:
+
+range(<start>,<stop>) -> [<start>,<start>+1,....,<stop> - 1]
+
+this list can be used in the for loop
+
+Dictionary:
+	
+	Set of <key,value> pairs in a hash table
+	<value> can be what ever thing, until another dictionary
+	We define a dictionary
+
+	d = {<string1>:<value1> , <string2>:<value2> , ...}
+
+	In a dictionary we can index the elements like
+	supouse d is a dictionary
+
+	d[<key>] -> value 
+
+	value associated with that key, if <key> doesn't exists in the dictionary we'll get an error message
+	the operation
+
+	d[<key>] = v
+
+	will update the value associated with key in the dictionary, 
+	if the key doesn't exists it'll be added to the dictionary
+	We can know if a keyword exists in a dictionary with:
+
+	<key> in <dictionary> -> True or False
