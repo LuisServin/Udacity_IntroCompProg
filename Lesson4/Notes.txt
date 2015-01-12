@@ -6,3 +6,17 @@ Return the words founded in the string as a list
 Network:
 	A group of entities that can communicate, even 
 	though they are not all directly connected
+
+Latency:
+	Time it takes message to get from source to 
+	destination. From the time source start messaging
+	to the time the destination starts receiving.
+	It's measure in milliseconds.
+
+Bandwith:
+	Amount of information that can be transmitted per
+	unit time.
+	It's measure in bit/second or Mbps 
+
+Bit:
+	Smallest unit of information
