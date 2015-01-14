@@ -8,3 +8,7 @@ The recursive procedures has two parts:
 		- smallest input - already know the answer
 	2.- Recursive case:
 		- Defined in terms of "smaller" version of itself
+
+to rank the posible link for an user we can use the:
+
+	"Relaxation algorithm"
